@@ -1,16 +1,28 @@
-# Raizing MiSTer Cores
+# Toaplan v2 / Raizing MiSTer Cores
 
 This project contains the MiSTer core for Raizing boards operating on the Toaplan v2 board platform.
 
+
 ## Supported Games
 
-| Title                                                                                                                 | Status        |
-|-----------------------------------------------------------------------------------------------------------------------|---------------|
-| [**Sorcer Striker**](https://en.wikipedia.org/wiki/Sorcer_Striker)                                                    | Public        |
-| [**Kingdom Grandprix**](https://en.wikipedia.org/wiki/Kingdom_Grand_Prix)                                             | Public        |
-| [**Battle Garegga**](https://en.wikipedia.org/wiki/Battle_Garegga)                                                    | Public        |
-| [**Batrider**](https://en.wikipedia.org/wiki/Armed_Police_Batrider)                                                   | Public        |
-| [**Battle Bakraid**](https://en.wikipedia.org/wiki/Battle_Bakraid)                                                    | Public        |
+| Title                                                                                                                 | Status        | Additional Information   |
+|-----------------------------------------------------------------------------------------------------------------------|---------------|--------------------------|
+| [**Armed Police Batrider**](https://en.wikipedia.org/wiki/Armed_Police_Batrider)                                      | Public        |                          |
+| [**Battle Bakraid**](https://en.wikipedia.org/wiki/Battle_Bakraid)                                                    | Public        |                          |
+| [**Battle Garegga**](https://en.wikipedia.org/wiki/Battle_Garegga)                                                    | Public        |                          | 
+| [**Kingdom Grandprix / Shippu Mahou Daisakusen**](https://en.wikipedia.org/wiki/Kingdom_Grand_Prix)                   | Public        |                          | 
+| [**Sorcer Striker**](https://en.wikipedia.org/wiki/Sorcer_Striker)                                                    | Public        |                          |
+| [**Batsugun**](https://en.wikipedia.org/wiki/Batsugun)                                                                | N/A           | MCU: NEC V25             |
+| [**Dogyuun**](https://en.wikipedia.org/wiki/Dogyuun)                                                                  | N/A           | MCU: NEC V25             |
+| [**FixEight**](https://en.wikipedia.org/wiki/FixEight)                                                                | N/A           | MCU: NEC V25             |
+| [**Ghox**](https://en.wikipedia.org/wiki/Ghox)                                                                        | N/A           | MCU: Hitachi HD647180    |
+| [**Grind Stormer / V-Five**](https://en.wikipedia.org/wiki/Grind_Stormer)                                             | N/A           | MCU: NEC V25             |
+| [**Knuckle Bash**](https://en.wikipedia.org/wiki/Knuckle_Bash)                                                        | N/A           | MCU: NEC V25             |
+| [**Pipi & Bibis / Whoopee!!**](https://en.wikipedia.org/wiki/Pipi_%26_Bibi%27s)                                       | N/A           |                          |
+| [**Snow Bros. 2 / Otenki Paradise**](https://en.wikipedia.org/wiki/Snow_Bros._2:_With_New_Elves)                      | N/A           |                          |
+| [**Teki Paki**](https://en.wikipedia.org/wiki/Teki_Paki)                                                              | N/A           | MCU: Hitachi HD647180    |
+| [**Truxton II / Tatsujin Oh**](https://en.wikipedia.org/wiki/Truxton_II)                                              | N/A           |                          |
+
 
 ## Development
 
